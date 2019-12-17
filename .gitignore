@@ -1,0 +1,7 @@
+# for github commit #
+
+*.app
+*.make
+.DS_Store
+Makefile
+
